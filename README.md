@@ -43,6 +43,11 @@
 ```bash
 Akira Bot adalah Bot Whatsapp yg Memiliki 500+ Fitur, 
 dan Menggunakan Bermacam² Rest Api
+
+## Heroku
+
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PHARAOH907/akirabotv3)
 ```
 
 ## Tools
